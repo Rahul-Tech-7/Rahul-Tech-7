@@ -2,20 +2,26 @@
 <h1 align="center"><font face="Arial">Hi 👋, I'm Rahul M</font></h1>
 <h3 align="center"><font face="Arial">Aspiring Software Engineer from India, passionate about Full-Stack Development. I recently completed my B.E. in Computer Science (2021–2025).</font></h3>
 
-<!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<table>
+  <tr>
+    <td>
 
----
+### Hi 👋, I'm Rahul M
+Aspiring Software Engineer from India, passionate about Full-Stack Development. I recently completed my B.E. in Computer Science (2021–2025).
 
-## 🚀 About Me
-- 🔭 I’m currently working on **AI ChatBot (Django + JavaScript)**  
-- 🌱 I’m learning **Advanced Django & Flask**  
-- 👯 I’m looking to collaborate on **Full-Stack Projects**  
-- 💬 Ask me about **Python, JavaScript, Django, SQL**  
-- 📫 How to reach me **[rahul.techwhiz@gmail.com](mailto:rahul.techwhiz@gmail.com)**  
-- ⚡ Fun fact: **I enjoy building projects that solve real-world problems**  
+- 🔭 I’m currently working on **AI ChatBot (Django + JavaScript)**
+- 🌱 I’m learning **Advanced Django & Flask**
+- 👯 I’m looking to collaborate on **Full-Stack Projects**
+- 💬 Ask me about **Python, JavaScript, Django, SQL**
+- 📫 How to reach me **[rahul.techwhiz@gmail.com](mailto:rahul.techwhiz@gmail.com)**
+- ⚡ Fun fact: **I enjoy building projects that solve real-world problems**
 
----
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="400" />
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Tech Stack
 
