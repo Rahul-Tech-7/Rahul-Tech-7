@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **AI ChatBot (Django + JavaScript)**  
-- 🌱 I’m learning **Advanced Django & Cloud Deployment**  
+- 🌱 I’m learning **Advanced Django & Flask**  
 - 👯 I’m looking to collaborate on **Full-Stack Projects**  
 - 💬 Ask me about **Python, JavaScript, Django, SQL**  
 - 📫 How to reach me **[rahul.techwhiz@gmail.com](mailto:rahul.techwhiz@gmail.com)**  
