@@ -6,8 +6,7 @@
   <tr>
     <td>
 
-### Hi 👋, I'm Rahul M
-Aspiring Software Engineer from India, passionate about Full-Stack Development. I recently completed my B.E. in Computer Science (2021–2025).
+### 🚀 About Me
 
 - 🔭 I’m currently working on **AI ChatBot (Django + JavaScript)**
 - 🌱 I’m learning **Advanced Django & Flask**
@@ -59,14 +58,21 @@ Aspiring Software Engineer from India, passionate about Full-Stack Development. 
 ---
 
 ## 🧠 Core Strengths
-<p>
-  <img src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1" width="400" height="400" title="Analytical Thinking"/>
-</p>
 
-- OOP concepts, REST API, Debugging, AJAX  
-- Responsive Web Design & API Integration  
+<table>
+  <tr>
+    <td>
+      <img src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1" width="400" height="400" title="Analytical Thinking"/>
+    </td>
+    <td>
+        - OOP concepts, REST API, Debugging, AJAX <br>
+        - Responsive Web Design & API Integration
+    </td>
+  </tr>
+</table>
 
----
+
+
 
 ## 📌 Highlighted Projects
 - 🧠 **Alzheimer’s Disease Diagnosis** – Deep learning with CNN & Kalman filter, achieving 99% accuracy.  
