@@ -39,7 +39,7 @@
 ### Backend & Database
 <p>
   <img src="https://editor.analyticsvidhya.com/uploads/36882wired1.gif" width="100" height="100" title="SQL"/>
- <img src="" width="100" height="100" title="SQL*Plus"/>
+ <img src="./sqlplus_final_logo_white.gif" width="100" height="100" title="SQL*Plus"/>
 </p>
 
 ### Frameworks
