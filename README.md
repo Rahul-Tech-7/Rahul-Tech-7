@@ -39,7 +39,7 @@
 ### Backend & Database
 <p>
   <img src="https://editor.analyticsvidhya.com/uploads/36882wired1.gif" width="100" height="100" title="SQL"/>
-  <img src="https://img.icons8.com/color/48/oracle-logo.png" width="100" height="100" title="Oracle"/>
+ <img src="" width="100" height="100" title="SQL*Plus"/>
 </p>
 
 ### Frameworks
@@ -86,5 +86,5 @@
 ## 📫 Connect with Me
 - 📧 Email: **[rahul.techwhiz@gmail.com](mailto:rahul.techwhiz@gmail.com)**  
 - 💼 LinkedIn: [Rahul M](https://www.linkedin.com/in/rahul-m-06268b235/)  
-- 🌐 Portfolio: [My Portfolio](https://ra1434207.wixsite.com/rahul)  
+- 🌐 Portfolio: [My Portfolio](https://rahul-port-mu-red.vercel.app)  
 - 🐙 GitHub: [Rahul-Tech-7](https://github.com/Rahul-Tech-7)  
